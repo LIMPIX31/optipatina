@@ -1,0 +1,12 @@
+cache
+libraries
+logs
+plugins
+versions
+world
+world_*
+.console_history
+banned-ips.json
+banned-players.json
+whitelist.json
+usercache.json
